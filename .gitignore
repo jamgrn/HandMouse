@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Local runtime files
+calib.json
+models/
+*.task
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
